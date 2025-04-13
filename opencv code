@@ -12,7 +12,7 @@ if cascade.empty():
 
 # === Step 2: Load the input image using full path ===
 # Replace the path below with your actual image path
-image_path = r'C:\Users\ELCOT\Desktop\6289.jpg'  # <-- Change this to your image path
+image_path = r'C:\Users\ELCOT\xxxxx\xxxx.jpg'  # <-- Change this to your image path
 img = cv2.imread(image_path)
 
 # Check if image was loaded successfully
